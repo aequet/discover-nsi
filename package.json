@@ -1,0 +1,11 @@
+{
+  "name": "discover-nsi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Une spécialité, neuf directions artistiques.",
+  "scripts": {
+    "dev": "node preview.mjs",
+    "start": "node preview.mjs"
+  }
+}
